@@ -1,0 +1,4 @@
+model,region,variable,year,unit,value
+historical,EU27,Production|Steel,2010,Mt/yr,172.73
+historical,EU27,Production|Steel,2015,Mt/yr,166.28
+historical,EU27,Production|Steel,2020,Mt/yr,170.44863

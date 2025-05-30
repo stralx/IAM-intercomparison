@@ -1,0 +1,25 @@
+model,scenario,region,variable,unit,year,value,study
+GCAM 7_0,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2020,11938.81133297104,Study_6
+GCAM 7_0,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2030,10244.9593681165,Study_6
+GCAM 7_0,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2040,8938.095572387852,Study_6
+GCAM 7_0,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6646.38516731338,Study_6
+GCAM 7_0,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2020,11938.81133297104,Study_6
+GCAM 7_0,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2030,10261.64228065482,Study_6
+GCAM 7_0,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2040,8919.612932980526,Study_6
+GCAM 7_0,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6765.189589744045,Study_6
+TIAM_Grantham,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2020,12138.6265140615,Study_6
+TIAM_Grantham,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2030,5164.43314531367,Study_6
+TIAM_Grantham,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2040,2412.35898625908,Study_6
+TIAM_Grantham,Fragmented,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1021.34923735558,Study_6
+TIAM_Grantham,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2020,12138.6265140615,Study_6
+TIAM_Grantham,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2030,5198.22245343196,Study_6
+TIAM_Grantham,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2040,3021.09878562217,Study_6
+TIAM_Grantham,NDC_EI_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1872.24594211121,Study_6
+TIAM_Grantham,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2020,12138.6265140615,Study_6
+TIAM_Grantham,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2030,5198.22245343196,Study_6
+TIAM_Grantham,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2040,1816.48853629432,Study_6
+TIAM_Grantham,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,440.495351373757,Study_6
+GCAM 7_0,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2020,11938.81133273933,Study_6
+GCAM 7_0,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2030,10244.95937699384,Study_6
+GCAM 7_0,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2040,4749.092879997501,Study_6
+GCAM 7_0,NDC_LTT_baseWACC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-623.9048766198646,Study_6

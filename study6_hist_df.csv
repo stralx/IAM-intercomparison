@@ -1,0 +1,5 @@
+model,region,variable,year,unit,value
+historical,EU28,Emissions|CO2|Energy|Supply|Electricity,2005,Mt CO2/yr,10192.06594
+historical,EU28,Emissions|CO2|Energy|Supply|Electricity,2010,Mt CO2/yr,11639.050259
+historical,EU28,Emissions|CO2|Energy|Supply|Electricity,2015,Mt CO2/yr,12437.543682
+historical,EU28,Emissions|CO2|Energy|Supply|Electricity,2020,Mt CO2/yr,12205.66724

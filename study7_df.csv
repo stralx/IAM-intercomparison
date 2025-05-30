@@ -1,0 +1,41 @@
+model,scenario,region,variable,unit,year,value,study
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2005,10.69884043526,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2010,10.67518090526,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2015,10.6073292865,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2020,10.28227152237,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2025,9.325793500659998,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2030,7.98803309439,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2035,7.1770809983519,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2040,5.853529521685,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2045,5.32337214212,Study_7
+GCAM 7_0,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2050,4.9468745803,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2005,10.69884043526,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2010,10.67518090526,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2015,10.6073292865,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2020,10.28226958327,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2025,9.26940101086,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2030,7.87064386009,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2035,6.792834951496801,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2040,5.323815591658,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2045,4.7656608862,Study_7
+GCAM 7_0,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2050,4.3575237399,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2005,8.569366012408963,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2010,8.400992573352964,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2015,8.288201720590964,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2020,9.127494380132312,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2025,9.63895890107612,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2030,9.684567012437906,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2035,9.279563009595636,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2040,8.18958600604945,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2045,7.821325718472916,Study_7
+WILLIAM,NDC_LTT,EU27,Final Energy|Transportation|Passenger,EJ/yr,2050,7.930501044639,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2005,8.569366012408963,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2010,8.400992573352964,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2015,8.288201720590964,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2020,9.127494380132312,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2025,9.63895890107612,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2030,9.539573011969237,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2035,8.945904008907021,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2040,7.795968005528558,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2045,7.119705325450832,Study_7
+WILLIAM,NDC_LTT_TRANS,EU27,Final Energy|Transportation|Passenger,EJ/yr,2050,6.928217429675,Study_7

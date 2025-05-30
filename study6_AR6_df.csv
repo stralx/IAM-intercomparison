@@ -1,0 +1,671 @@
+model,scenario,region,variable,unit,year,value,Category,Ssp_family
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_CB400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,42.5604392201957,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600f_DR4p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,195.993507246743,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-4202.831,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1136.3498,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2518.3296,C5,2.0
+IMAGE 3.0.2,EMF33_WB2C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3686.26000976562,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8315.107719378406,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_300f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,249.78,C1,2.0
+COFFEE 1.1,EN_NPi2020_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-542.6164450000001,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_2500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3046.321058934545,C5,2.0
+WITCH 5.0,EN_INDCi2030_2500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3804.984340753457,C5,2.0
+REMIND 1.7,ADVANCE_2030_Price1.5C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-665.7612,C2,2.0
+POLES ENGAGE,EN_NPi2020_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6826.15771484375,C5,2.0
+REMIND 2.1,LeastTotalCost_CBA_brkSR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2002.3355,C3,2.0
+REMIND 1.7,ADVANCE_2020_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,558.4223,C2,2.0
+GCAM 5.3,R_MAC_55_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2078.95900089283,C3,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_tax_lo_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5078.6914,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,449.2001,C1,2.0
+REMIND 2.1,TechCost-SSP2-B1100-bioH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1021.3782,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,9270.3285,C5,2.0
+IMAGE 3.0.2,EMF33_WB2C_nofuel,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2874.55810546875,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2100_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2982.3941,C5,2.0
+AIM/CGE 2.2,EN_INDCi2030_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2499.5571,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6579.555191996199,C5,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-778.4393078141993,C3,2.0
+WITCH 5.0,CO_Bridge,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,117.46736157119,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7086.597,C5,2.0
+REMIND 2.1,CEMICS_GDPgrowth_1p5,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1148.0216,C1,2.0
+REMIND 2.1,TechCost-SSP2-B1100-oilH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,226.0273,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1449.899111349629,C3,2.0
+WITCH 5.0,EN_INDCi2030_2500f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3821.226501026817,C5,2.0
+WITCH 5.0,EN_NPi2020_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3014.289115429926,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,527.6131,C2,2.0
+WITCH 5.0,EN_NPi2020_2500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3420.853275406968,C5,2.0
+WITCH 5.0,EN_NPi2020_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1289.388268513898,C5,2.0
+REMIND 2.1,TechCost-SSP2-B1100-coalH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,847.8738,C3,2.0
+GCAM 5.3,R_MAC_99_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5604.90607271426,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8939.13419736404,C5,2.0
+GCAM 5.3,R_MAC_35_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3753.46886763851,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,814.7255,C3,2.0
+MESSAGE-GLOBIOM 1.0,EMF30_Slower-to-faster,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,838.64198,C2,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_CB450,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,56.8441132487357,C2,2.0
+POLES ENGAGE,EN_NPi2020_500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,469.49072265625,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-694.6826072349949,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3461.097114228387,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_NDC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2044.193,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR1p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,74.51051296764963,C1,2.0
+TIAM-ECN 1.1,EN_NPi2020_2500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3046.331976443857,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1025.5449,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1907.247817240889,C5,2.0
+REMIND 2.1,LeastTotalCost_CEA_brkLR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1477.1772,C3,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_WB2C_nobeccs,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,199.6758,C3,2.0
+GCAM 5.3,R_MAC_45_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3511.46500270571,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,674.3971,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2259.378593724278,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2320.960004435623,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6544.672673443225,C5,2.0
+WITCH 5.0,EN_NPi2020_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1769.453171891137,C3,2.0
+AIM/Hub-Global 2.0,1.5C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1543.6713,C1,2.0
+POLES ADVANCE,ADVANCE_2030_1.5C-2100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3957.28,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000f_DR1p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,283.1043949696434,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3328.1693,C5,2.0
+IMAGE 3.0,CO_GPP,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6859.185695648193,C5,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_Med2C_nobeccs,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,301.677191871987,C3,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_1.5C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1919.928,C2,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_1.5C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-490.021049782126,C1,2.0
+REMIND 2.1,TechCost-SSP2-B1100-elh2H,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1020.3203,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-459.6221,C3,2.0
+REMIND-MAgPIE 2.1-4.2,SusDev_SDP-PkBudg1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1073.0058,C1,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_uniform-pricing_def,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1291.0289,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_700f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,61.25310485967135,C2,2.0
+MESSAGEix-GLOBIOM_1.1,NGFS2_Delayed Transition,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-21.32074807,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2090.876659657104,C3,2.0
+POLES ENGAGE,EN_INDCi2030_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6231.828125,C5,2.0
+AIM/CGE 2.1,CD-LINKS_NPi2020_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3362.7296,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_700f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1039.51623449421,C2,2.0
+REMIND-MAgPIE 2.1-4.2,NGFS2_Delayed Transition,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,209.1399,C3,2.0
+REMIND 1.7,CEMICS-1.5-CDR12,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-6.0396,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000f_DR3p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1495.180987354994,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,768.5369,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_300f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-69.37310178186937,C2,2.0
+IMAGE 3.0.1,EMF30_Slower-to-faster+SLCF+HFC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,500.176788330078,C3,2.0
+GEM-E3_V2021,EN_NPi2020_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3118.904668254145,C5,2.0
+POLES ENGAGE,EN_NPi2020_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5816.50927734375,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-58.09243206667704,C2,2.0
+POLES ENGAGE,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,980.024658203125,C3,2.0
+WITCH 5.0,EN_INDCi2030_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1796.131079072289,C3,2.0
+IMAGE 3.2,SSP2_SPA2_26I_RE,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,972.2053409506564,C3,2.0
+WITCH 5.0,EN_NPi2020_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1289.388268513898,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_600f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-37.52205703334221,C2,2.0
+WITCH 5.0,EN_INDCi2030_800f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1459.45531388331,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6598.170267875857,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1055.4918,C3,2.0
+COFFEE 1.1,EN_NPi2020_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3436.827760000001,C5,2.0
+IMAGE 3.2,SSP2_SPA2_26I_LI,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3381.058713107713,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2100_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3051.5615,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,411.9419097575325,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3165.457880093086,C3,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_ HighRE_Budg900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,264.0121,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1275.3194,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600f_DR2p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,100.2187924255316,C2,2.0
+POLES ADVANCE,ADVANCE_INDC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7488.49,C5,2.0
+REMIND 2.1,R2p1_SSP2-NDC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3429.32,C5,2.0
+COFFEE 1.1,EN_INDCi2030_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-136.8671725,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2782.3643,C3,2.0
+WITCH 5.0,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2383.530564774524,C3,2.0
+GEM-E3_V2021,EN_NPi2020_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,159.5506556952699,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1200,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1285.6466,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,416.1203,C1,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_WB2C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-121.557265364404,C2,2.0
+POLES ENGAGE,EN_NPi2020_1400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4741.9013671875,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2518.3296,C5,2.0
+GCAM 5.3,R_MAC_65_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,35.724778555491596,C3,2.0
+REMIND 1.7,ADVANCE_2020_Med2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1293.4338,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2100_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3057.9307,C5,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_no-transfer_def,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1401.9217,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600f_DR3p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,155.2814315629329,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR2p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,27.32574622543105,C1,2.0
+REMIND 2.1,R2p1_SSP2-PkBudg1300,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1109.0441,C3,2.0
+WITCH 5.0,CO_GPP,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1156.608253688344,C5,2.0
+POLES EMF30,EMF30_Slower-to-faster,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3986.22125,C2,2.0
+WITCH 5.0,EN_NPi2020_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2407.119796027775,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_eff,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,881.4648,C1,2.0
+POLES ENGAGE,EN_NPi2020_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6826.15771484375,C5,2.0
+GEM-E3_V2021,EN_INDCi2030_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2954.61936942496,C5,2.0
+AIM/CGE 2.2,EN_NPi2020_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1738.3819,C3,2.0
+IMAGE 3.0.2,EMF33_Med2C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1477.94799804688,C5,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_WB2C_limbio,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-524.0671000000001,C3,2.0
+IMAGE 3.2,SSP2_SPA2_34I_LIRE,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,17521.06380621929,C5,2.0
+GCAM 5.3,NGFS2_Nationally Determined Contributions (NDCs),World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,10284.05773,C5,2.0
+GCAM 5.3,NGFS2_Divergent Net Zero Policies,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2411.790896,C2,2.0
+WITCH 5.0,EN_INDCi2030_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1460.685935516605,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_NDC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,548.7211,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,9100.694232156811,C5,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_eff,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-150.3621,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1163.5568,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR3p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,13.59954442893317,C1,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_tax_lo_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6684.63318941438,C5,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_noint_mc_15,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8082.27635107343,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1200,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1190.9862,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_450,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-155.9978155988189,C1,2.0
+GCAM 5.3,R_MAC_35_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-5304.78878807,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,718.6007,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_900f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,278.5057951920467,C3,2.0
+POLES GECO2019,CO_2Deg2030,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1387.249389648438,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CO_2Deg2020,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,944.9274,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000_DR10p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,986.2691573619516,C3,2.0
+WITCH 5.0,EN_NPi2020_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2888.223513915136,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,901.038695170986,C2,2.0
+COFFEE 1.1,EN_NPi2020_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1089.042605,C5,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_noint_lc_15,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8336.088900449897,C5,2.0
+TIAM-ECN 1.1,EN_NPi2020_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1557.387317563001,C5,2.0
+IMAGE 3.0.2,EMF33_Med2C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-191.611099243164,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1165.8945,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000f_DR2p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,849.9800216721655,C3,2.0
+IMAGE 3.0,EN_INDCi2030_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-5801.128745079041,C3,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_CB500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,164.708060314599,C2,2.0
+GCAM 5.3,R_MAC_60_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2498.71245570657,C2,2.0
+POLES ENGAGE,EN_NPi2020_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,827.6907958984375,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6815.868269541555,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6592.832833209747,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,341.4997762905971,C2,2.0
+REMIND-Transport 2.1,Transport_Budg1100_H2Push,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,233.0243,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_800f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1612.052598490024,C3,2.0
+IMAGE 3.0,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-6566.270510355631,C3,2.0
+WITCH 5.0,EN_INDCi2030_2000_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1787.238200366282,C5,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_red_eff,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1319.66,C1,2.0
+IMAGE 3.0,EN_NPi2020_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-5251.795848210651,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8498.129051171845,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,657.3816,C2,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_tax_lo_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4920.2973,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2793.2295,C5,2.0
+WITCH 5.0,EN_INDCi2030_1000f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1320.468886408307,C3,2.0
+POLES ENGAGE,EN_NPi2020_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,931.8582763671876,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,293.117495970029,C3,2.0
+REMIND-Buildings 2.0,BEG-Budg600-EG,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3.9935,C2,2.0
+COFFEE 1.1,EN_NPi2020_1400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3782.695573,C5,2.0
+IMAGE 3.0,EN_NPi2020_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-6868.429501851399,C3,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_int_lc_15,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8235.15127723576,C5,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_tax_lo_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7166.421658368459,C5,2.0
+POLES ENGAGE,EN_NPi2020_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8004.88671875,C5,2.0
+POLES ENGAGE,EN_NPi2020_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8004.88671875,C5,2.0
+GCAM 5.3,R_MAC_85_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3723.94021943907,C5,2.0
+POLES ENGAGE,EN_NPi2020_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1355.875610351562,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2648.5952,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-43.87761660139158,C3,2.0
+COFFEE 1.1,EN_NPi2020_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4500.74725,C5,2.0
+IMAGE 3.2,SSP2_SPA2_26I_D,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-801.1545489960067,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2263.961620846746,C3,2.0
+IMAGE 3.2,SSP2_SPA2_34I_LI,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,12189.99099842263,C5,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_Med2C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2223.546,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3098.7457,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_950f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1084.61775843367,C3,2.0
+POLES GECO2019,CO_GPP,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4945.33935546875,C5,2.0
+GCAM 5.3,R_MAC_60_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1010.00843920342,C3,2.0
+COFFEE 1.1,EN_NPi2020_500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-121.042453,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-117.9271276569203,C2,2.0
+GEM-E3_V2021,EN_NPi2020_1400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1776.507499324468,C5,2.0
+WITCH 5.0,EN_INDCi2030_2500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3804.984340753457,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_950f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,979.800440751369,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2582.2483,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2070.1367,C5,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ConvSyn,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,170.7191,C3,2.0
+GCAM 5.3,R_MAC_45_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-5304.07314944069,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3250.4279,C5,2.0
+WITCH 5.0,EN_NPi2020_450f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2994.664134127752,C1,2.0
+REMIND-MAgPIE 1.5,SSP2-19,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3036.0,C1,2.0
+COFFEE 1.1,CO_GPP,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,317.624529,C5,2.0
+TIAM-ECN 1.1,EN_INDCi2030_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-4973.34097024691,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR4p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,0.256158795596721,C1,2.0
+IMAGE 3.0,CO_2Deg2020,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1713.677555322647,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1440.6729,C3,2.0
+WITCH 5.0,CO_NDC_2050convergence,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2985.398815078628,C5,2.0
+POLES ENGAGE,EN_INDCi2030_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5497.36865234375,C5,2.0
+GCAM 5.3,R_MAC_50_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3248.74050512882,C3,2.0
+POLES ENGAGE,EN_NPi2020_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,818.5668334960938,C3,2.0
+WITCH-GLOBIOM 4.4,CD-LINKS_NPi2020_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3949.81837730193,C1,2.0
+POLES ENGAGE,EN_INDCi2030_600f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,803.759033203125,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2000.240585663454,C1,2.0
+WITCH-GLOBIOM 4.4,CD-LINKS_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3114.2311672628,C1,2.0
+POLES ENGAGE,EN_INDCi2030_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5497.36865234375,C5,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ElecPush-LowD,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,682.7514,C3,2.0
+WITCH 5.0,EN_INDCi2030_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1647.956491469241,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_900f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,476.6328909116188,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1333.144082363812,C5,2.0
+GEM-E3_V2021,EN_INDCi2030_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1735.981700758407,C3,2.0
+AIM/CGE 2.1,CD-LINKS_NPi2020_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3197.0367,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_900f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,689.999878900655,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2438.655221026384,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000_DR1p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,312.6061250720194,C3,2.0
+IMAGE 3.0,EN_NPi2020_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-6231.742024421692,C3,2.0
+POLES EMF33,EMF33_WB2C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,425.370788574219,C1,2.0
+GCAM 5.3,NGFS2_Net-Zero 2050,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2931.940952,C2,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_tax_hi_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,843.8154999999999,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7286.632142246368,C5,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_120,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,444.30386371428,C2,2.0
+REMIND 2.1,CEMICS_opt_1p5,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2236.1875,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7593.663576888305,C5,2.0
+POLES ENGAGE,EN_INDCi2030_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4591.5068359375,C5,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-177.5294780981404,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_800f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,175.2205814404921,C3,2.0
+REMIND 1.7,ADVANCE_2030_1.5C-2100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2195.3941,C2,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-1p5C-fullCDR,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-136.1523,C1,2.0
+REMIND 2.1,CEMICS_Linear_1p5,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1771.3261,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_800f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,70.39034368792785,C3,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_int_mc_15,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7992.34134931814,C5,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3840.588257284092,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,9144.673599876014,C5,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_NDC2030i_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,196.802,C3,2.0
+IMAGE 3.0.2,EMF33_WB2C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-4192.2021484375,C3,2.0
+WITCH 5.0,EN_INDCi2030_1800_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1009.316455227102,C5,2.0
+WITCH 5.0,EN_INDCi2030_1600f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,515.1329298839673,C5,2.0
+GCAM 5.3,R_MAC_90_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4428.14680115148,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1066.2492,C3,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_noint_lc_50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,282.336443148702,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7154.0236,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7090.430699713294,C5,2.0
+GCAM 5.3,R_MAC_40_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3777.81525787315,C3,2.0
+WITCH 5.0,EN_NPi2020_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2838.843210521137,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3809.951831501486,C3,2.0
+COFFEE 1.1,EN_INDCi2030_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-354.8395235999999,C3,2.0
+POLES EMF33,EMF33_tax_lo_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,12966.7998046875,C5,2.0
+REMIND-Transport 2.1,Transport_Budg1100_Conv-LowD,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,281.6591,C3,2.0
+WITCH 5.0,EN_INDCi2030_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,524.8789053172776,C5,2.0
+TIAM-ECN 1.1,EN_INDCi2030_2500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2627.718320231926,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1000f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1254.420382322274,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1537.735404984379,C3,2.0
+REMIND 2.1,LeastTotalCost_LTC_brkSR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1543.6774,C3,2.0
+WITCH 5.0,EN_INDCi2030_900f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1398.674198284275,C3,2.0
+WITCH 5.0,EN_INDCi2030_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1064.398883474145,C5,2.0
+GCAM 5.3,R_MAC_65_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1587.98477987754,C3,2.0
+WITCH 5.0,EN_INDCi2030_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1765.806620135976,C5,2.0
+COFFEE 1.1,EN_NPi2020_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5608.773236000001,C5,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_mc_15,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7362.16459279414,C5,2.0
+WITCH 5.0,EN_INDCi2030_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1681.227641281128,C3,2.0
+POLES ENGAGE,EN_NPi2020_300f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,556.2749633789062,C2,2.0
+MESSAGEix-GLOBIOM 1.0,CD-LINKS_NDC2030i_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,613.680056396589,C2,2.0
+POLES ADVANCE,ADVANCE_2020_1.5C-2100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-4835.055,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_300f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2681.047,C1,2.0
+COFFEE 1.1,EN_NPi2020_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4606.300847000001,C5,2.0
+MESSAGE-GLOBIOM 1.0,EMF30_Slower-Action,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7852.54880666667,C5,2.0
+GCAM 5.3,R_MAC_99_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3911.41227616245,C5,2.0
+COFFEE 1.1,EN_NPi2020_400_lowBECCS,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,83.361881,C3,2.0
+REMIND 2.1,LeastTotalCost_NDC_brkLR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5090.3803,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,770.3179,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8472.399406451243,C5,2.0
+AIM/Hub-Global 2.0,2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7896.032999999999,C5,2.0
+IMAGE 3.2,SSP2_SPA0_26I_D,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1188.414374987284,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,659.0022,C2,2.0
+POLES EMF33,EMF33_WB2C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,290.495544433594,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-931.3843,C2,2.0
+POLES ENGAGE,EN_NPi2020_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5816.509765625,C5,2.0
+WITCH 5.0,EN_NPi2020_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3012.072912941924,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2152.119419975509,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3767.589437335002,C3,2.0
+REMIND 2.1,CEMICS_Linear_2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,808.0551,C3,2.0
+WITCH 5.0,EN_NPi2020_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2311.259191770675,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_RE_LB,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1000.053246906913,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1466.3199,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1096.936279998897,C3,2.0
+IMAGE 3.0.2,EMF33_tax_lo_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8287.33203125,C5,2.0
+REMIND 1.7,CEMICS-1.5-CDR20,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-8.2775,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8375.5027,C5,2.0
+GCAM 5.3,R_MAC_55_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3512.8405786607,C2,2.0
+REMIND-MAgPIE 2.1-4.2,NGFS2_Nationally Determined Contributions (NDCs),World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3466.6978,C5,2.0
+WITCH 5.0,EN_INDCi2030_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1585.884651656039,C3,2.0
+POLES ADVANCE,ADVANCE_2030_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3983.274,C2,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_WB2C_nofuel,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2487.7128,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1063.2327,C3,2.0
+WITCH 5.0,EN_INDCi2030_2500_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3821.226501026817,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_900f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2532.8276858167,C3,2.0
+IMAGE 3.0.1,EMF30_ClimPolicy+SLCF,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2512.81298828125,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1907.305848288883,C5,2.0
+REMIND 1.7,CEMICS-2.0-CDR8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,116.0695,C1,2.0
+COFFEE 1.1,EN_INDCi2030_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3030.059388,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000f_DR4p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2084.370386993466,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-187.4164,C3,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_CB600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,266.602738659723,C2,2.0
+IMAGE 3.2,SSP2_SPA2_19I_LIRE,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2978.728036356558,C2,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_NPi2020_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-471.3164,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5.790216767821216,C2,2.0
+GEM-E3_V2021,EN_NPi2020_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2200.810607349968,C2,2.0
+IMAGE 3.0.1,ADVANCE_2030_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-415.694020688534,C3,2.0
+MESSAGEix-GLOBIOM_1.1,NGFS2_Nationally Determined Contributions (NDCs),World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7238.352434,C5,2.0
+GCAM 5.3,R_MAC_70_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-716.01368791647,C3,2.0
+REMIND 2.1,CEMICS_GDPgrowth_2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,967.2359,C3,2.0
+GCAM 5.3,R_MAC_40_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-5593.89914360742,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1200,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3087.959815829307,C3,2.0
+WITCH 5.0,EN_NPi2020_500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3222.710533322249,C1,2.0
+MESSAGE-GLOBIOM 1.0,ADVANCE_2030_Price1.5C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,366.5494402,C2,2.0
+REMIND 2.1,LeastTotalCost_CEA_brkSR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1527.0984,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2313.710365601309,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_700f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,54.94269260747696,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,106.9138,C1,2.0
+REMIND 1.7,CEMICS-2.0-CDR20,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,633.7823,C2,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_netzero,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,654.2347,C2,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_def_Budg900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-750.4399,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_900_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,674.6215507866679,C3,2.0
+WITCH-GLOBIOM 4.4,CD-LINKS_INDC2030i_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-959.725518261068,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_netzero,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-704.7924,C2,2.0
+MESSAGE-GLOBIOM 1.0,ADVANCE_2020_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,695.2590051,C3,2.0
+REMIND-MAgPIE 2.1-4.2,SusDev_SDP-NPi,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7668.2712,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,819.7828,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3000.360877654362,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2844.010549497637,C3,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_WB2C_limbio,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-210.59502021196,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600f_DR10p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1692.791613277248,C2,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_Med2C_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,27.5893385091439,C3,2.0
+GCAM 5.3,R_MAC_50_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-4893.26203430473,C1,2.0
+IMAGE 3.2,SSP2_SPA2_34I_D,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7212.182999312879,C5,2.0
+POLES EMF33,EMF33_Med2C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2789.32568359375,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1600f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5845.30569303381,C5,2.0
+COFFEE 1.1,EN_NPi2020_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-419.527789,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2500f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8490.443419833486,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3.726950815284582,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1095.7512,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,683.3613,C3,2.0
+AIM/Hub-Global 2.0,WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,748.9551000000001,C3,2.0
+GCAM 5.3,R_MAC_30_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3600.46673325966,C1,2.0
+REMIND-MAgPIE 1.7-3.0,CO_2Deg2030,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,548.7211,C2,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_WB2C_cost100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,626.6456999999999,C3,2.0
+COFFEE 1.1,EN_INDCi2030_1400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2589.117711,C5,2.0
+POLES ENGAGE,EN_NPi2020_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1069.72509765625,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,579.9039,C2,2.0
+REMIND 2.1,LeastTotalCost_LTC_brkLR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1180.9959,C3,2.0
+COFFEE 1.1,EN_NPi2020_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-423.8214870000001,C3,2.0
+COFFEE 1.1,EN_INDCi2030_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3095.667103,C5,2.0
+REMIND 2.1,TechCost-SSP2-B1100-nucH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,931.3767,C3,2.0
+REMIND-MAgPIE 2.1-4.2,NGFS2_Divergent Net Zero Policies,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,432.9641,C1,2.0
+REMIND-MAgPIE 1.7-3.0,SMP_2C_lifesty,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1079.087,C1,2.0
+REMIND 2.1,R2p1_SSP2-PkBudg1100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,831.4616,C3,2.0
+POLES ENGAGE,EN_INDCi2030_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,952.8030395507812,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_INDC2030i_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2203.285,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,100.2818194041723,C3,2.0
+POLES ENGAGE,EN_INDCi2030_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1463.335205078125,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_800f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,187.3270372821777,C3,2.0
+POLES GECO2019,CO_2Deg2020,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1591.511474609375,C3,2.0
+POLES ENGAGE,EN_INDCi2030_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1357.988647460938,C3,2.0
+REMIND-MAgPIE 2.1-4.2,SusDev_SSP2-PkBudg900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-274.2902,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000_DR2p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,730.3498237821077,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000_DR3p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,844.5726452584065,C3,2.0
+REMIND 2.1,CEMICS_opt_2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,947.1348,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1800f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7090.921788611076,C5,2.0
+COFFEE 1.1,EN_INDCi2030_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-570.1395847499999,C2,2.0
+AIM/CGE 2.2,EN_NPi2020_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2.6785,C2,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_def_Budg1100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,669.0519,C2,2.0
+AIM/CGE 2.1,CD-LINKS_INDC2030i_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1916.1046,C5,2.0
+MESSAGEix-GLOBIOM 1.0,CD-LINKS_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,169.36972873311,C2,2.0
+GCAM 5.3,R_MAC_75_n8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,152.11457196229,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_700f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,28.10229253592586,C2,2.0
+COFFEE 1.1,EN_INDCi2030_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3720.100607,C5,2.0
+COFFEE 1.1,EN_INDCi2030_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2271.348663,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1454.028377600428,C3,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_WB2C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-54.3671095979935,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5830.254944523399,C5,2.0
+COFFEE 1.1,EN_NPi2020_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5757.839135000001,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1051.0302,C3,2.0
+WITCH 5.0,EN_INDCi2030_2000f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1787.238200366282,C5,2.0
+IMAGE 3.2,SSP2_SPA1_19I_LIRE_LB,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1037.475953593792,C1,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_WB2C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,865.332,C3,2.0
+COFFEE 1.1,EN_INDCi2030_1200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1899.651778,C5,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_WB2C_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,15.832699999999999,C3,2.0
+AIM/CGE 2.1,CO_Bridge,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-234.3373,C3,2.0
+AIM/CGE 2.1,CD-LINKS_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-787.9235,C3,2.0
+WITCH 5.0,EN_NPi2020_2500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3420.853275406968,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3164.118,C5,2.0
+REMIND 2.1,CEMICS_HotellingConst_2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,851.4679,C3,2.0
+POLES ENGAGE,EN_NPi2020_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1372.68115234375,C3,2.0
+REMIND 1.7,ADVANCE_2020_1.5C-2100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-707.7923,C1,2.0
+POLES ENGAGE,EN_INDCi2030_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1238.945068359375,C3,2.0
+WITCH 5.0,CO_2Deg2020,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2665.428175017986,C3,2.0
+COFFEE 1.1,EN_NPi2020_1200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2455.052695,C5,2.0
+REMIND 2.1,CEMICS_HotellingConst_1p5,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2508.4357,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1200,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2543.606598248413,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7329.660807748788,C5,2.0
+COFFEE 1.1,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-452.1855109999999,C3,2.0
+REMIND-Buildings 2.0,BEG-Budg600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,10.766,C2,2.0
+GCAM 5.3,SSP_SSP2,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2236.97011725567,C3,2.0
+COFFEE 1.1,EN_INDCi2030_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3509.2398,C5,2.0
+GCAM 5.3,R_MAC_95_n0,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5051.99804587644,C5,2.0
+AIM/CGE 2.2,EN_NPi2020_700f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1076.0234,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6800.775760577892,C5,2.0
+POLES ENGAGE,EN_INDCi2030_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,920.92529296875,C2,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_80,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,584.689780748524,C2,2.0
+IMAGE 3.0.2,EMF33_tax_hi_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3768.39208984375,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,63.46193587747047,C3,2.0
+GEM-E3_V2021,EN_NPi2020_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2183.651659297539,C2,2.0
+IMAGE 3.0.1,CD-LINKS_NPi2020_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-9878.792047500609,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,265.5493564379266,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_Conv,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,57.2012,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,444.2807,C2,2.0
+COFFEE 1.1,EN_INDCi2030_600_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-148.207904,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7385.861434918749,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6499.261314716879,C5,2.0
+COFFEE 1.1,EN_INDCi2030_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1002.3383184,C5,2.0
+POLES ENGAGE,EN_INDCi2030_300f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,880.7951049804688,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,52.59739768363871,C3,2.0
+IMAGE 3.0.1,SSP2-34,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6085.11181640625,C5,2.0
+WITCH 5.0,EN_INDCi2030_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1813.48404996926,C2,2.0
+AIM/CGE 2.2,EN_INDCi2030_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7859.6864,C5,2.0
+IMAGE 3.0.1,EMF30_Slower-to-faster+SLCF,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,500.176788330078,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1068.869513809004,C3,2.0
+POLES EMF33,EMF33_Med2C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2769.0234375,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1200_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1119.347818167183,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2500_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8444.384510938207,C5,2.0
+IMAGE 3.0,CO_2Deg2030,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1384.212553501129,C3,2.0
+COFFEE 1.1,EN_NPi2020_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5183.976704000001,C5,2.0
+AIM/CGE 2.2,EN_INDCi2030_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3023.753,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-4036.3784,C1,2.0
+POLES ENGAGE,EN_NPi2020_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,647.1683959960938,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_1200,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1677.909799949861,C3,2.0
+POLES ENGAGE,EN_INDCi2030_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6231.828125,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6807.398646946847,C5,2.0
+GEM-E3_V2021,EN_INDCi2030_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2954.61936942496,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1200_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3427.120963918321,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_goodpractice,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,789.0769,C2,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_noint_mc_50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,124.24867577866,C2,2.0
+POLES GECO2019,CO_Bridge,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6092.916015625,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5906.634686754922,C5,2.0
+IMAGE 3.0.2,EMF33_tax_lo_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,9310.970703125,C5,2.0
+IMAGE 3.2,SSP2_SPA2_26I_LIRE,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6853.106499341271,C3,2.0
+IMAGE 3.0.2,EMF33_WB2C_nobeccs,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1626.5849609375,C3,2.0
+MESSAGE-GLOBIOM 1.0,SSP2-19,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-333.7463283,C1,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_CB550,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,235.616950963994,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1014.6203,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7646.742257119062,C5,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_ HighRE_Budg1100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,870.7209,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,967.1474,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,515.7419,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8013.078375668823,C5,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3502.586748710896,C3,2.0
+REMIND 2.1,R2p1_SSP2-PkBudg900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-304.3122,C1,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_Med2C_limbio,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,848.9909,C3,2.0
+POLES ADVANCE,ADVANCE_2030_Med2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1402.31025,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,910.0467,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600f_DR1p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,61.08271623622781,C2,2.0
+MESSAGEix-GLOBIOM 1.0,LowEnergyDemand_1.3_IPCC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,18.31633398489306,C1,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_eff,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,944.9274,C2,2.0
+GEM-E3_V2021,EN_NPi2020_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2933.594263847306,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,650.0369,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3194.479,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1085.997257776024,C3,2.0
+COFFEE 1.1,EN_NPi2020_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-282.722698,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,9270.3285,C5,2.0
+WITCH 5.0,CO_2Deg2030,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1658.183704311902,C3,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_def_Budg1300,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1011.3896,C3,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_tax_hi_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,412.5591497055489,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-769.7552,C1,2.0
+MESSAGE-GLOBIOM 1.0,SSP2-26,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1331.288931,C3,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_ HighRE_Budg1300,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1315.5573,C3,2.0
+MESSAGEix-GLOBIOM 1.0,CD-LINKS_NPi2020_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-403.3662251158929,C1,2.0
+REMIND 2.1,TechCost-SSP2-B1100-spvH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1057.8121,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-53.89548389158143,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4767.087316171748,C5,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1488.423420998668,C3,2.0
+POLES ADVANCE,ADVANCE_2020_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-4812.32,C2,2.0
+AIM/CGE 2.2,EN_NPi2020_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7086.597,C5,2.0
+MESSAGE-GLOBIOM 1.0,ADVANCE_INDC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7027.2129363,C5,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-2C-minCDR,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,693.4461,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1800_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6412.323445040425,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7580.473895604297,C5,2.0
+MESSAGEix-GLOBIOM_1.1,NGFS2_Divergent Net Zero Policies,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,30.95944962,C1,2.0
+REMIND-MAgPIE 1.5,SSP2-26,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1371.0,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_300f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,229.3758,C2,2.0
+POLES ENGAGE,EN_INDCi2030_600f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1375.581420898438,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7703.161318663919,C5,2.0
+POLES EMF33,EMF33_WB2C_nofuel,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-44.2329788208008,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7231.162044850948,C5,2.0
+IMAGE 3.0.1,ADVANCE_2020_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2003.82272402445,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1600_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4919.165269262785,C5,2.0
+REMIND-MAgPIE 1.7-3.0,CO_GPP,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2511.988,C5,2.0
+MESSAGE-GLOBIOM 1.0,ADVANCE_2020_1.5C-2100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-207.0045175,C1,2.0
+COFFEE 1.1,EN_NPi2020_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-493.0664860000001,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-521.4338,C1,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_int_mc_50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,163.289690752248,C2,2.0
+REMIND 2.1,TechCost-SSP2-B1100-windH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1002.1529,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_950_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-10.63501733620531,C3,2.0
+WITCH 5.0,EN_INDCi2030_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1369.095192501699,C3,2.0
+MESSAGEix-GLOBIOM_1.1,NGFS2_Net-Zero 2050,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-120.0793443,C1,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ElecPush,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,498.6279,C3,2.0
+IMAGE 3.0,EN_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-6186.003804206848,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,718.6007,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-939.786,C2,2.0
+MESSAGE-GLOBIOM 1.0,SSP2-34,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7557.053884399998,C5,2.0
+GEM-E3_V2021,EN_NPi2020_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-392.6156294029511,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1200f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1168.756,C3,2.0
+WITCH 5.0,EN_INDCi2030_1800f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1009.316455227102,C5,2.0
+COFFEE 1.1,EN_INDCi2030_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-374.82032496,C3,2.0
+IMAGE 3.0.1,EMF30_D_CO2-Only,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2480.2509765625,C5,2.0
+WITCH 5.0,EN_NPi2020_450,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3590.136649752747,C1,2.0
+REMIND-MAgPIE 1.7-3.0,CO_Bridge,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,833.2456,C2,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_mc_50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,28.8867489062239,C2,2.0
+COFFEE 1.1,EN_INDCi2030_500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-190.161922,C3,2.0
+IMAGE 3.0.1,ADVANCE_2020_1.5C-2100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-10435.5272452037,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8976.455797293973,C5,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_1.5C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1936.7818,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1153.849866960239,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,508.5092,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-880.6952040373462,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1009.2105,C3,2.0
+IMAGE 3.0.1,CD-LINKS_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1194.94105378787,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,338.2774,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1600f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5871.68652433999,C5,2.0
+GEM-E3_V2021,EN_NPi2020_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-747.3327006029217,C3,2.0
+REMIND 1.7,ADVANCE_2030_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,220.283,C2,2.0
+WITCH 5.0,EN_INDCi2030_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1298.253028245247,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8355.503591196237,C5,2.0
+POLES ADVANCE,ADVANCE_2030_Price1.5C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3670.8065,C2,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_1.5C_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-488.412836378969,C1,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,9056.960877642829,C5,2.0
+IMAGE 3.0.2,EMF33_WB2C_limbio,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2435.94799804688,C3,2.0
+POLES EMF33,EMF33_Med2C_nobeccs,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3647.5654296875,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1000_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,69.46568203421965,C3,2.0
+POLES ENGAGE,EN_INDCi2030_1400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3786.955322265625,C5,2.0
+TIAM-ECN 1.1,EN_INDCi2030_2500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2627.723455477977,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_450f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,10.3566459367487,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-28.41157458996447,C2,2.0
+POLES EMF33,EMF33_Med2C_limbio,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1548.65783691406,C3,2.0
+REMIND 2.1,TechCost-SSP2-B1100-gasH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,854.8895,C3,2.0
+REMIND-MAgPIE 1.7-3.0,EMF33_1.5C_nofuel,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-7737.381599999999,C1,2.0
+GEM-E3_V2021,EN_INDCi2030_1000f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-248.56865308578,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_700_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,21.07348429118542,C2,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_int_lc_50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,224.949417082552,C3,2.0
+GEM-E3_V2021,EN_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-715.5597234557893,C3,2.0
+WITCH-GLOBIOM 4.4,CD-LINKS_NPi2020_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2290.9301981662,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_2000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7540.35759614129,C5,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_NDC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-636.8272,C2,2.0
+COFFEE 1.1,EN_NPi2020_1400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1349.076033,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500f_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8268.286440002183,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2070.1367,C5,2.0
+WITCH 5.0,EN_NPi2020_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,523.1173157827587,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,71.22036079932718,C2,2.0
+POLES ENGAGE,EN_NPi2020_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,631.7442016601562,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1200_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1205.768579153415,C3,2.0
+WITCH 5.0,EN_INDCi2030_700f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1621.78197512663,C3,2.0
+POLES ADVANCE,ADVANCE_2020_Med2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,314.24890625,C3,2.0
+WITCH 5.0,EN_INDCi2030_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1765.806620135976,C5,2.0
+GEM-E3_V2021,EN_NPi2020_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3118.904668254145,C5,2.0
+AIM/CGE 2.2,EN_NPi2020_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,8375.5027,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1277.089571823286,C3,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_100,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,553.258592475822,C2,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1616.52927182865,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_800_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,283.4888612813983,C3,2.0
+COFFEE 1.1,EN_INDCi2030_1400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1357.59819,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,658.2445597177962,C2,2.0
+WITCH 5.0,EN_NPi2020_900,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2190.53126479341,C3,2.0
+WITCH 5.0,EN_INDCi2030_900_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1801.454270668523,C3,2.0
+POLES ENGAGE,EN_INDCi2030_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4591.5068359375,C5,2.0
+REMIND-MAgPIE 1.5,SSP2-34,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4250.0,C5,2.0
+IMAGE 3.0,EN_INDCi2030_1400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1884.98596350352,C5,2.0
+POLES ENGAGE,EN_INDCi2030_500f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1128.819702148438,C3,2.0
+MESSAGEix-GLOBIOM_GEI 1.0,SSP2_openres_lc_15,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7523.87560131968,C5,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_goodpractice,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1307.34,C2,2.0
+AIM/CGE 2.2,EN_NPi2020_1200,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3000.007,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR10p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-152.2301449190694,C2,2.0
+POLES ENGAGE,EN_INDCi2030_1400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3709.99072265625,C5,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1260.739167131501,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,9186.556244952711,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,571.4642,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-18.3336,C1,2.0
+REMIND 1.7,CEMICS-1.5-CDR8,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1.3964,C1,2.0
+COFFEE 1.1,EN_INDCi2030_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3829.598807,C5,2.0
+POLES EMF33,EMF33_tax_lo_full,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,12917.1064453125,C5,2.0
+IMAGE 3.0.1,CD-LINKS_NDC2030i_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-203.431610018015,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3470.6271,C5,2.0
+WITCH 5.0,EN_NPi2020_1800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,523.1173157827587,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1000_DR4p,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,987.8467827076674,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_1000_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-18.74904664906745,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-293.6644164434767,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_D_LB,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-926.4992476351916,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-779.5277,C3,2.0
+COFFEE 1.1,EN_NPi2020_400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-157.142606,C1,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_hybrid_def,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1586.1895,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_INDC2030i_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,196.802,C2,2.0
+COFFEE 1.1,EN_INDCi2030_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-284.8047614999999,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1424.57440753433,C2,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_950_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-35.89052387868066,C3,2.0
+WITCH 5.0,EN_INDCi2030_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1064.398883474145,C5,2.0
+MESSAGE-GLOBIOM 1.0,EMF33_WB2C_nofuel,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1308.87896387115,C2,2.0
+GEM-E3_V2021,EN_NPi2020_800,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1582.46813662626,C3,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-1p5C-minCDR,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1.8097,C1,2.0
+WITCH 5.0,EN_NPi2020_900f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2108.063036273016,C3,2.0
+GEM-E3_V2021,EN_NPi2020_500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3122.469752063999,C1,2.0
+IMAGE 3.2,SSP2_SPA2_34I_RE,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,10361.18602846878,C5,2.0
+WITCH 5.0,EN_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1756.755531132499,C3,2.0
+POLES EMF33,EMF33_Med2C_none,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3476.35302734375,C3,2.0
+IMAGE 3.0,CO_Bridge,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2595.767478148142,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,986.3729,C3,2.0
+COFFEE 1.1,EN_INDCi2030_400f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-571.2536160000001,C2,2.0
+COFFEE 1.1,EN_NPi2020_400f_lowBECCS,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-80.641678,C3,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-2C-fullCDR,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,812.9997,C3,2.0
+POLES ENGAGE,EN_NPi2020_1400,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,4481.81201171875,C5,2.0
+COFFEE 1.1,CO_Bridge,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-29.48333400000002,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1261.2261,C3,2.0
+REMIND-MAgPIE 2.1-4.2,SusDev_SSP2-NDC,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,3080.3794,C5,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_netzero,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2170.481,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-64.57533789294608,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_COV_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1118.3923,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_700,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2272.4889,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1800_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,6859.606939504931,C5,2.0
+IMAGE 3.2,SSP2_SPA2_19I_LI,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3037.822743533052,C1,2.0
+IMAGE 3.0.2,EMF33_Med2C_limbio,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,659.811828613281,C5,2.0
+GEM-E3_V2021,EN_INDCi2030_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2608.421119236184,C2,2.0
+REMIND 2.1,LeastTotalCost_NDC_brkSR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,5428.0234,C5,2.0
+GEM-E3_V2021,EN_INDCi2030_800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1056.465760202298,C2,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_netzero,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,405.7381,C2,2.0
+POLES EMF33,EMF33_Med2C_nofuel,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2308.80859375,C3,2.0
+WITCH 5.0,EN_INDCi2030_800_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1960.845260709676,C3,2.0
+IMAGE 3.0.1,EMF30_ClimPolicy,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2480.2509765625,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3728.929927528202,C3,2.0
+WITCH-GLOBIOM 4.4,CD-LINKS_NDC2030i_1000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1565.57543821176,C2,2.0
+REMIND 2.1,TechCost-SSP2-B1100-ccsH,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,372.2575,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f_COV,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2010.261204531055,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2494.133538080458,C5,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1080.3171,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_INDCi2030_2000f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7726.714348519602,C5,2.0
+WITCH 5.0,EN_INDCi2030_1600_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,494.6740232497404,C5,2.0
+MESSAGE-GLOBIOM 1.0,ADVANCE_2030_WB2C,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,739.6283482999999,C3,2.0
+WITCH 5.0,EN_INDCi2030_600f_NDCp,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1705.808108380605,C3,2.0
+IMAGE 3.0.1,SSP2-26,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-1591.49597167969,C3,2.0
+REMIND 2.1,LeastTotalCost_CBA_brkLR15_SSP2_P50,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,1202.7644,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_goodpractice,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,161.9324,C2,2.0
+IMAGE 3.2,SSP2_SPA2_19I_D,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3999.240875607708,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_2000,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,2465.603829395269,C5,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_1800f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,7227.256577742198,C5,2.0
+REMIND 1.7,CEMICS-2.0-CDR12,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,328.713,C2,2.0
+IMAGE 3.2,SSP2_SPA2_19I_RE,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-3660.09813580408,C2,2.0
+WITCH 5.0,EN_INDCi2030_1600,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,539.3730398140024,C5,2.0
+WITCH 5.0,EN_NPi2020_600f,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-2730.04232559027,C3,2.0
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_500,World,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,2050,-198.8860822449029,C1,2.0

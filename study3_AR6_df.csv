@@ -1,0 +1,281 @@
+model,scenario,region,variable,unit,year,value,Category,Ssp_family
+TIAM-ECN 1.1,EN_NPi2020_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.91,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.9058,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_300f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.3935,C1,2.0
+REMIND 2.1,LeastTotalCost_CBA_brkSR15_SSP2_P50,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.3829,C3,2.0
+GCAM 5.3,R_MAC_55_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.7574651945,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.8049,C1,2.0
+REMIND 2.1,TechCost-SSP2-B1100-bioH,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.049,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.7062,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.10708387715467,C3,2.0
+WITCH 5.0,CO_Bridge,EU28,Secondary Energy|Electricity,EJ/yr,2050,39.8053319842859,C3,2.0
+REMIND 2.1,CEMICS_GDPgrowth_1p5,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.7592,C1,2.0
+REMIND 2.1,TechCost-SSP2-B1100-oilH,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.0769,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.5332390036168,C3,2.0
+WITCH 5.0,EN_NPi2020_600,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.4673390129391,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.0396,C2,2.0
+REMIND 2.1,TechCost-SSP2-B1100-coalH,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.5538,C3,2.0
+GCAM 5.3,R_MAC_35_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.93148682051,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.4577,C3,2.0
+POLES ENGAGE,EN_NPi2020_500,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.01788902282715,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.011995188204036,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.343325555701824,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_NDC,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.6723,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.7813,C3,2.0
+REMIND 2.1,LeastTotalCost_CEA_brkLR15_SSP2_P50,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.6682,C3,2.0
+GCAM 5.3,R_MAC_45_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.8352680822,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.6155,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.610761641332346,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.835826053342487,C3,2.0
+WITCH 5.0,EN_NPi2020_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.577803278838,C3,2.0
+REMIND 2.1,TechCost-SSP2-B1100-elh2H,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.8296,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.7464,C3,2.0
+REMIND-MAgPIE 2.1-4.2,SusDev_SDP-PkBudg1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.7948,C1,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_uniform-pricing_def,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.3357,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.39907857625433,C3,2.0
+REMIND-MAgPIE 2.1-4.2,NGFS2_Delayed Transition,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.3845,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_700f,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.5448,C3,2.0
+POLES ENGAGE,EN_NPi2020_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.66168785095215,C3,2.0
+WITCH 5.0,EN_INDCi2030_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,32.22492508297169,C3,2.0
+IMAGE 3.2,SSP2_SPA2_26I_RE,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.059584768,C3,2.0
+WITCH 5.0,EN_INDCi2030_800f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.8267776546209,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.4467,C3,2.0
+IMAGE 3.2,SSP2_SPA2_26I_LI,EU28,Secondary Energy|Electricity,EJ/yr,2050,12.601594624,C3,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_ HighRE_Budg900,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.4532,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1200f,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.5441,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.45,C3,2.0
+WITCH 5.0,EN_NPi2020_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,0.472296426988551,C3,2.0
+GEM-E3_V2021,EN_NPi2020_1000f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,14.7514347970653,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1200,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.5792,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.2212,C1,2.0
+GCAM 5.3,R_MAC_65_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.4207410663,C3,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_no-transfer_def,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.6331,C3,2.0
+EPPA 6,Paris1.5C_OptTax,EU28,Secondary Energy|Electricity,EJ/yr,2050,12.86803877549053,C3,2.0
+REMIND 2.1,R2p1_SSP2-PkBudg1300,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.7153,C3,2.0
+WITCH 5.0,EN_NPi2020_700f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.1794256784052,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_eff,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.271,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.4011,C3,2.0
+GCAM 5.3,NGFS2_Divergent Net Zero Policies,EU28,Secondary Energy|Electricity,EJ/yr,2050,32.231446000000005,C2,2.0
+WITCH 5.0,EN_INDCi2030_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.9919691370282,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_NDC,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.0791,C2,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_eff,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.0557,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.9282,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1200,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.3499,C3,2.0
+GCAM 5.3,R_MAC_35_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.839528895870306,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.2744,C2,2.0
+POLES GECO2019,CO_2Deg2030,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.50141716003418,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CO_2Deg2020,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.9443,C2,2.0
+WITCH 5.0,EN_NPi2020_400f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.9766410928145,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.7232,C3,2.0
+IMAGE 3.0,EN_INDCi2030_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.094964736,C3,2.0
+GCAM 5.3,R_MAC_60_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.404361469300003,C2,2.0
+POLES ENGAGE,EN_NPi2020_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.90003967285156,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_H2Push,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.0161,C3,2.0
+IMAGE 3.0,EN_NPi2020_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.934465536,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_red_eff,EU28,Secondary Energy|Electricity,EJ/yr,2050,34.7827,C1,2.0
+IMAGE 3.0,EN_NPi2020_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.240298496,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.8389,C2,2.0
+WITCH 5.0,EN_INDCi2030_1000f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.2657473753264,C3,2.0
+POLES ENGAGE,EN_NPi2020_600f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.80528259277344,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1200f,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.70119151039602,C3,2.0
+REMIND-Buildings 2.0,BEG-Budg600-EG,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.265,C2,2.0
+IMAGE 3.0,EN_NPi2020_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.950906368,C3,2.0
+POLES ENGAGE,EN_NPi2020_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.43881034851075,C3,2.0
+IMAGE 3.2,SSP2_SPA2_26I_D,EU28,Secondary Energy|Electricity,EJ/yr,2050,14.293465856,C3,2.0
+GCAM 5.3,R_MAC_60_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.394412016,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.0348,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ConvSyn,EU28,Secondary Energy|Electricity,EJ/yr,2050,35.1554,C3,2.0
+GCAM 5.3,R_MAC_45_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.413058617808,C1,2.0
+WITCH 5.0,EN_NPi2020_450f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.8257084046934,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.37262882719336,C3,2.0
+IMAGE 3.0,CO_2Deg2020,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.590961152,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.8518,C3,2.0
+GCAM 5.3,R_MAC_50_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.7164971627,C3,2.0
+POLES ENGAGE,EN_NPi2020_600,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.74140930175781,C3,2.0
+POLES ENGAGE,EN_INDCi2030_600f_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.78518486022949,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.52510109746256,C1,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ElecPush-LowD,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.3797,C3,2.0
+WITCH 5.0,EN_INDCi2030_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.3469408589336,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.231997989607063,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.32383900478269,C2,2.0
+IMAGE 3.0,EN_NPi2020_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.903044608000002,C3,2.0
+GCAM 5.3,NGFS2_Net-Zero 2050,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.70725,C2,2.0
+REMIND 2.1,CEMICS_opt_1p5,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.9487,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1200f,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.04405038518481,C3,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-1p5C-fullCDR,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.5425,C1,2.0
+REMIND 2.1,CEMICS_Linear_1p5,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.1396,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.194493279998312,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.9316,C3,2.0
+GCAM 5.3,R_MAC_40_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.93991020868,C3,2.0
+WITCH 5.0,EN_NPi2020_700,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.7355537597495,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.79160743714556,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_Conv-LowD,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.2112,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.4787507829336,C3,2.0
+REMIND 2.1,LeastTotalCost_LTC_brkSR15_SSP2_P50,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.9558,C3,2.0
+WITCH 5.0,EN_INDCi2030_900f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.381099862725,C3,2.0
+GCAM 5.3,R_MAC_65_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.0784699157,C3,2.0
+WITCH 5.0,EN_INDCi2030_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.6168209886693,C3,2.0
+POLES ENGAGE,EN_NPi2020_300f,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.00045967102051,C2,2.0
+AIM/CGE 2.2,EN_NPi2020_300f,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.3869,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.2618,C1,2.0
+IMAGE 3.2,SSP2_SPA0_26I_D,EU28,Secondary Energy|Electricity,EJ/yr,2050,13.6063616,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.2582,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.5612,C2,2.0
+WITCH 5.0,EN_NPi2020_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.7271143098637,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.830985578788376,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.11183717902821,C3,2.0
+REMIND 2.1,CEMICS_Linear_2C,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.1588,C3,2.0
+WITCH 5.0,EN_NPi2020_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.1054527713366,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_RE_LB,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.332370944,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_400f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.2058,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.982579764964147,C3,2.0
+GCAM 5.3,R_MAC_55_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.17701012872,C2,2.0
+WITCH 5.0,EN_INDCi2030_700f,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.2887666996304,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.6149,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.5494,C3,2.0
+IMAGE 3.2,SSP2_SPA2_19I_LIRE,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.080326912,C2,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_NPi2020_400,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.3726,C1,2.0
+GEM-E3_V2021,EN_NPi2020_600,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.09209601190098,C2,2.0
+GCAM 5.3,R_MAC_70_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.0846644224,C3,2.0
+REMIND 2.1,CEMICS_GDPgrowth_2C,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.7378,C3,2.0
+GCAM 5.3,R_MAC_40_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.723637668955,C1,2.0
+WITCH 5.0,EN_NPi2020_500,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.998754285385502,C1,2.0
+REMIND 2.1,LeastTotalCost_CEA_brkSR15_SSP2_P50,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.0253,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.693571435414004,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_200f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.8498,C1,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_netzero,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.1978,C2,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_def_Budg900,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.5527,C1,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_netzero,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.6539,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.5346,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.646456754739823,C3,2.0
+GCAM 5.3,R_MAC_50_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.918852805356,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.3868,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_700f,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.8271,C3,2.0
+GCAM 5.3,R_MAC_30_n0,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.93821886067,C1,2.0
+REMIND-MAgPIE 1.7-3.0,CO_2Deg2030,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.0791,C2,2.0
+POLES ENGAGE,EN_NPi2020_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.7174243927002,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_NPi2020_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.1993,C2,2.0
+REMIND 2.1,LeastTotalCost_LTC_brkLR15_SSP2_P50,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.5272,C3,2.0
+REMIND 2.1,TechCost-SSP2-B1100-nucH,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.1745,C3,2.0
+REMIND-MAgPIE 2.1-4.2,NGFS2_Divergent Net Zero Policies,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.8472,C1,2.0
+REMIND 2.1,R2p1_SSP2-PkBudg1100,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.5161,C3,2.0
+POLES ENGAGE,EN_INDCi2030_600f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.21748924255371,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_INDC2030i_400,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.6903,C2,2.0
+POLES ENGAGE,EN_INDCi2030_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.55702781677246,C3,2.0
+POLES GECO2019,CO_2Deg2020,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.89883613586426,C3,2.0
+POLES ENGAGE,EN_INDCi2030_700f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.26931190490723,C3,2.0
+REMIND-MAgPIE 2.1-4.2,SusDev_SSP2-PkBudg900,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.6389,C1,2.0
+REMIND 2.1,CEMICS_opt_2C,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.0941,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.3633,C2,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_def_Budg1100,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.66,C2,2.0
+GCAM 5.3,R_MAC_75_n8,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.3306822875,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.8299,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_LIRE_LB,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.805012992,C1,2.0
+REMIND 2.1,CEMICS_HotellingConst_2C,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.5842,C3,2.0
+POLES ENGAGE,EN_NPi2020_700f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.51746559143066,C3,2.0
+POLES ENGAGE,EN_INDCi2030_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.22632026672364,C3,2.0
+WITCH 5.0,CO_2Deg2020,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.6579386784413,C3,2.0
+REMIND 2.1,CEMICS_HotellingConst_1p5,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.2334,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1200,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.23470305318252,C3,2.0
+REMIND-Buildings 2.0,BEG-Budg600,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.6487,C2,2.0
+GCAM 5.3,SSP_SSP2,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.938017318,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_700f,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.1703,C3,2.0
+POLES ENGAGE,EN_INDCi2030_400f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.1115779876709,C2,2.0
+GEM-E3_V2021,EN_NPi2020_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.772609975114204,C2,2.0
+REMIND-Transport 2.1,Transport_Budg1100_Conv,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.9048,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.5871,C2,2.0
+POLES ENGAGE,EN_INDCi2030_300f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.12192726135254,C2,2.0
+WITCH 5.0,EN_INDCi2030_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,32.2790171801343,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.079798474298645,C3,2.0
+IMAGE 3.0,CO_2Deg2030,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.48356864,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.5314,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_600,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.3423,C1,2.0
+POLES ENGAGE,EN_NPi2020_400f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.95818328857422,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_1200,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.477751847839667,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_goodpractice,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.4396,C2,2.0
+POLES GECO2019,CO_Bridge,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.0951099395752,C2,2.0
+IMAGE 3.2,SSP2_SPA2_26I_LIRE,EU28,Secondary Energy|Electricity,EJ/yr,2050,14.943254016000001,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.7526,C3,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_ HighRE_Budg1100,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.9574,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.1586,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.0261,C2,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.92098373072129,C3,2.0
+REMIND 2.1,R2p1_SSP2-PkBudg900,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.1282,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.2711,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_full_eff,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.9443,C2,2.0
+GEM-E3_V2021,EN_NPi2020_400f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.703024127143333,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.8656,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.6763,C3,2.0
+WITCH 5.0,CO_2Deg2030,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.0672625068576,C3,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_def_Budg1300,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.9797,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.5979,C1,2.0
+REMIND-MAgPIE 2.1-4.3,DeepElec_SSP2_ HighRE_Budg1300,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.5539,C3,2.0
+REMIND 2.1,TechCost-SSP2-B1100-spvH,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.0481,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.81741044164481,C3,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-2C-minCDR,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.2843,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_300f,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.0546,C2,2.0
+POLES ENGAGE,EN_INDCi2030_600f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.79697608947754,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_500,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.6923,C1,2.0
+REMIND 2.1,TechCost-SSP2-B1100-windH,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.9265,C3,2.0
+WITCH 5.0,EN_INDCi2030_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.5740141470609,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ElecPush,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.8414,C3,2.0
+IMAGE 3.0,EN_NPi2020_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.2017856,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.2744,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.3173,C2,2.0
+GEM-E3_V2021,EN_NPi2020_1000_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.075891884166476,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1200f,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.1998,C3,2.0
+WITCH 5.0,EN_NPi2020_450,EU28,Secondary Energy|Electricity,EJ/yr,2050,32.4537907690102,C1,2.0
+REMIND-MAgPIE 1.7-3.0,CO_Bridge,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.8281,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_700,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.0115,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.517191099361032,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.6157,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_400f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.8829,C2,2.0
+GEM-E3_V2021,EN_NPi2020_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.719549834658611,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.3267233285044,C3,2.0
+REMIND 2.1,TechCost-SSP2-B1100-gasH,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.3848,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000f_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.394146986985803,C3,2.0
+GEM-E3_V2021,EN_NPi2020_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.644184975178364,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_NDC,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.7326,C2,2.0
+POLES ENGAGE,EN_NPi2020_700,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.57917022705078,C3,2.0
+WITCH 5.0,EN_INDCi2030_700f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.2177199516115,C3,2.0
+WITCH 5.0,EN_NPi2020_900,EU28,Secondary Energy|Electricity,EJ/yr,2050,0.47506430728798604,C3,2.0
+WITCH 5.0,EN_INDCi2030_900_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.2019123054812,C3,2.0
+POLES ENGAGE,EN_INDCi2030_500f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.15800094604492,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_1p5C_full_goodpractice,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.2058,C2,2.0
+AIM/CGE 2.2,EN_NPi2020_1200,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.8065,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.102757641045923,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.1278,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.6775,C1,2.0
+GEM-E3_V2021,EN_INDCi2030_1000f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.186503332160813,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_D_LB,EU28,Secondary Energy|Electricity,EJ/yr,2050,16.299602944,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_700,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.959600000000002,C3,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_hybrid_def,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.3563,C3,2.0
+REMIND-MAgPIE 1.7-3.0,CD-LINKS_INDC2030i_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,25.3625,C2,2.0
+GEM-E3_V2021,EN_NPi2020_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.096214282048262,C2,2.0
+GEM-E3_V2021,EN_NPi2020_800,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.56042933484173,C3,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-1p5C-minCDR,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.5587,C1,2.0
+WITCH 5.0,EN_NPi2020_900f,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.8063951864572,C3,2.0
+GEM-E3_V2021,EN_NPi2020_500,EU28,Secondary Energy|Electricity,EJ/yr,2050,20.097889608486,C1,2.0
+WITCH 5.0,EN_NPi2020_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.6511845019798,C3,2.0
+IMAGE 3.0,CO_Bridge,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.194247424,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.9716,C3,2.0
+REMIND-MAgPIE 2.1-4.2,CEMICS_SSP2-2C-fullCDR,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.1234,C3,2.0
+COFFEE 1.1,CO_Bridge,EU28,Secondary Energy|Electricity,EJ/yr,2050,38.62715149702425,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1000,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.9038,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_COV_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,23.1512,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_700,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.9099,C3,2.0
+IMAGE 3.2,SSP2_SPA2_19I_LI,EU28,Secondary Energy|Electricity,EJ/yr,2050,13.474759168,C1,2.0
+GEM-E3_V2021,EN_INDCi2030_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,18.41414277974992,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_800f,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.428342846364636,C2,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_netzero,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.0644,C2,2.0
+WITCH 5.0,EN_INDCi2030_800_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.9759614829958,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.9180759215263,C3,2.0
+REMIND 2.1,TechCost-SSP2-B1100-ccsH,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.0826,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f_COV,EU28,Secondary Energy|Electricity,EJ/yr,2050,19.120837396264747,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f,EU28,Secondary Energy|Electricity,EJ/yr,2050,24.7493,C3,2.0
+WITCH 5.0,EN_INDCi2030_600f_NDCp,EU28,Secondary Energy|Electricity,EJ/yr,2050,31.4496484730609,C3,2.0
+REMIND 2.1,LeastTotalCost_CBA_brkLR15_SSP2_P50,EU28,Secondary Energy|Electricity,EJ/yr,2050,21.5317,C3,2.0
+REMIND-MAgPIE 1.7-3.0,PEP_2C_red_goodpractice,EU28,Secondary Energy|Electricity,EJ/yr,2050,29.5462,C2,2.0
+IMAGE 3.2,SSP2_SPA2_19I_D,EU28,Secondary Energy|Electricity,EJ/yr,2050,14.930435328,C2,2.0
+IMAGE 3.2,SSP2_SPA2_19I_RE,EU28,Secondary Energy|Electricity,EJ/yr,2050,17.897927936000002,C2,2.0
+WITCH 5.0,EN_NPi2020_600f,EU28,Secondary Energy|Electricity,EJ/yr,2050,30.420910370666,C3,2.0

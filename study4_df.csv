@@ -1,0 +1,52 @@
+model,scenario,region,variable,unit,year,value,study
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2005,195.6,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2010,172.8,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2015,166.2,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2020,157.0,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2025,123.9,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2030,99.8,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2035,112.2,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2040,139.7,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2045,160.5,Study_4
+GCAM 7_0,NDC_LTT,EU27,Production|Steel,Mt/yr,2050,176.5,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2005,195.6,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2010,172.8,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2015,166.2,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2020,157.0,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2025,130.8,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2030,114.4,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2035,121.8,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2040,146.7,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2045,166.2,Study_4
+GCAM 7_0,CBAM,EU27,Production|Steel,Mt/yr,2050,181.5,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2005,195.6,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2010,172.8,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2015,166.2,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2020,157.0,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2025,157.0,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2030,157.0,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2035,157.0,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2040,157.0,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2045,162.5,Study_4
+GCAM 7_0,INDEPENDENCE,EU27,Production|Steel,Mt/yr,2050,177.2,Study_4
+WISEE EDM-I Steel,NDC_LTT,EU27,Production|Steel,Mt Crude steel,2020,171.8,Study_4
+WISEE EDM-I Steel,NDC_LTT,EU27,Production|Steel,Mt Crude steel,2025,135.3,Study_4
+WISEE EDM-I Steel,NDC_LTT,EU27,Production|Steel,Mt Crude steel,2030,108.9,Study_4
+WISEE EDM-I Steel,NDC_LTT,EU27,Production|Steel,Mt Crude steel,2035,126.2,Study_4
+WISEE EDM-I Steel,NDC_LTT,EU27,Production|Steel,Mt Crude steel,2040,156.0,Study_4
+WISEE EDM-I Steel,NDC_LTT,EU27,Production|Steel,Mt Crude steel,2045,174.9,Study_4
+WISEE EDM-I Steel,NDC_LTT,EU27,Production|Steel,Mt Crude steel,2050,192.2,Study_4
+WISEE EDM-I Steel,CBAM,EU27,Production|Steel,Mt Crude steel,2020,171.8,Study_4
+WISEE EDM-I Steel,CBAM,EU27,Production|Steel,Mt Crude steel,2025,142.9,Study_4
+WISEE EDM-I Steel,CBAM,EU27,Production|Steel,Mt Crude steel,2030,124.8,Study_4
+WISEE EDM-I Steel,CBAM,EU27,Production|Steel,Mt Crude steel,2035,134.7,Study_4
+WISEE EDM-I Steel,CBAM,EU27,Production|Steel,Mt Crude steel,2040,162.4,Study_4
+WISEE EDM-I Steel,CBAM,EU27,Production|Steel,Mt Crude steel,2045,181.1,Study_4
+WISEE EDM-I Steel,CBAM,EU27,Production|Steel,Mt Crude steel,2050,197.6,Study_4
+WISEE EDM-I Steel,INDEPENDENCE,EU27,Production|Steel,Mt Crude steel,2020,171.8,Study_4
+WISEE EDM-I Steel,INDEPENDENCE,EU27,Production|Steel,Mt Crude steel,2025,171.5,Study_4
+WISEE EDM-I Steel,INDEPENDENCE,EU27,Production|Steel,Mt Crude steel,2030,171.3,Study_4
+WISEE EDM-I Steel,INDEPENDENCE,EU27,Production|Steel,Mt Crude steel,2035,174.7,Study_4
+WISEE EDM-I Steel,INDEPENDENCE,EU27,Production|Steel,Mt Crude steel,2040,171.1,Study_4
+WISEE EDM-I Steel,INDEPENDENCE,EU27,Production|Steel,Mt Crude steel,2045,177.0,Study_4
+WISEE EDM-I Steel,INDEPENDENCE,EU27,Production|Steel,Mt Crude steel,2050,192.1,Study_4

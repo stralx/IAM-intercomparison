@@ -1,0 +1,6 @@
+model,region,variable,year,value
+historical,EU27,Final Energy|Transportation|Passenger,2005,11.5193
+historical,EU27,Final Energy|Transportation|Passenger,2010,11.3027
+historical,EU27,Final Energy|Transportation|Passenger,2015,11.5541
+historical,EU27,Final Energy|Transportation|Passenger,2020,8.6474
+historical,EU27,Final Energy|Transportation|Passenger,2025,11.0637

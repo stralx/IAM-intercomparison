@@ -1,0 +1,203 @@
+model,scenario,region,variable,unit,year,value,Category,Ssp_family
+TIAM-ECN 1.1,EN_NPi2020_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.319999999999999,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6032,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_300f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6805,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6219,C1,2.0
+AIM/CGE 2.2,EN_INDCi2030_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.2426,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.278592122170899,C3,2.0
+WITCH 5.0,CO_Bridge,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.36376213508674,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.12774497475364,C3,2.0
+WITCH 5.0,EN_NPi2020_600,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.3833093339010505,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6959,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.717,C3,2.0
+POLES ENGAGE,EN_NPi2020_500,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.332828283309937,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.26490280325455,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.603170351990368,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7453,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.5721,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.349515036400325,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.6992484580228915,C3,2.0
+WITCH 5.0,EN_NPi2020_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.35527270266844,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,15.943700000000002,C3,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_uniform-pricing_def,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.3895,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.405878840630346,C3,2.0
+REMIND-MAgPIE 2.1-4.2,NGFS2_Delayed Transition,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.4087,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_700f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.68,C3,2.0
+POLES ENGAGE,EN_NPi2020_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.386394023895264,C3,2.0
+WITCH 5.0,EN_INDCi2030_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.97874750065576,C3,2.0
+IMAGE 3.2,SSP2_SPA2_26I_RE,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.268162427848816,C3,2.0
+WITCH 5.0,EN_INDCi2030_800f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.446034073210821,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.4184,C3,2.0
+IMAGE 3.2,SSP2_SPA2_26I_LI,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.478393562515259,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1200f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6606000000000005,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.6,C3,2.0
+WITCH 5.0,EN_NPi2020_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.79666720808625,C3,2.0
+GEM-E3_V2021,EN_NPi2020_1000f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.403239225973612,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1200,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7341,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6714,C1,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_no-transfer_def,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.1499,C3,2.0
+WITCH 5.0,EN_NPi2020_700f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.3982951811940203,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.710900000000002,C3,2.0
+GCAM 5.3,NGFS2_Divergent Net Zero Policies,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.5136271,C2,2.0
+WITCH 5.0,EN_INDCi2030_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.83358219877729,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6275,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1200,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6464,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.2307,C2,2.0
+POLES GECO2019,CO_2Deg2030,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.575222492218018,C3,2.0
+WITCH 5.0,EN_NPi2020_400f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.5161227099616297,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.5227,C3,2.0
+IMAGE 3.0,EN_INDCi2030_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.701748583465816,C3,2.0
+POLES ENGAGE,EN_NPi2020_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.313001155853272,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_H2Push,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.5564,C3,2.0
+IMAGE 3.0,EN_NPi2020_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.469441675115377,C3,2.0
+IMAGE 3.0,EN_NPi2020_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.479988782666624,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7069,C2,2.0
+WITCH 5.0,EN_INDCi2030_1000f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.05199396769541,C3,2.0
+POLES ENGAGE,EN_NPi2020_600f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.879256725311279,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1200f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.54773976048909,C3,2.0
+REMIND-Buildings 2.0,BEG-Budg600-EG,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.4331,C2,2.0
+IMAGE 3.0,EN_NPi2020_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.517960319761186,C3,2.0
+POLES ENGAGE,EN_NPi2020_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.899749755859375,C3,2.0
+IMAGE 3.2,SSP2_SPA2_26I_D,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.228080455535888,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.8672,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ConvSyn,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.384,C3,2.0
+WITCH 5.0,EN_NPi2020_450f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.4307334792660997,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.42175030849513,C3,2.0
+IMAGE 3.0,CO_2Deg2020,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.507281126920134,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.0838,C3,2.0
+POLES ENGAGE,EN_NPi2020_600,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.066322088241577,C3,2.0
+POLES ENGAGE,EN_INDCi2030_600f_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.375107288360596,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.457935642318084,C1,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ElecPush-LowD,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.5479,C3,2.0
+WITCH 5.0,EN_INDCi2030_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.25092321937201,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.806761067364741,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.59412879822325,C2,2.0
+IMAGE 3.0,EN_NPi2020_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.41018733382225,C3,2.0
+GCAM 5.3,NGFS2_Net-Zero 2050,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.2439073,C2,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1200f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.547109130411477,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.739703742471772,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.527,C3,2.0
+WITCH 5.0,EN_NPi2020_700,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.35409801436738,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.624580099765041,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_Conv-LowD,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.4323,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.1042014504736395,C3,2.0
+WITCH 5.0,EN_INDCi2030_900f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.088716307110109,C3,2.0
+WITCH 5.0,EN_INDCi2030_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.05498988269245,C3,2.0
+POLES ENGAGE,EN_NPi2020_300f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.73517370223999,C2,2.0
+AIM/CGE 2.2,EN_NPi2020_300f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.274,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6136,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.67,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6713000000000005,C2,2.0
+WITCH 5.0,EN_NPi2020_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.4178769678032,C1,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.405796672321955,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.697157778479803,C3,2.0
+WITCH 5.0,EN_NPi2020_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.867897077837392,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_RE_LB,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.067545545059204,C1,2.0
+AIM/CGE 2.2,EN_NPi2020_400f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.0255,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.51347800261666,C3,2.0
+WITCH 5.0,EN_INDCi2030_700f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.71924668713557,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.493,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.598,C3,2.0
+IMAGE 3.2,SSP2_SPA2_19I_LIRE,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.145990805046081,C2,2.0
+GEM-E3_V2021,EN_NPi2020_600,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.68076000466932,C2,2.0
+WITCH 5.0,EN_NPi2020_500,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.1425473438839,C1,2.0
+GEM-E3_V2021,EN_INDCi2030_600f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.3702301577581,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_200f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6676,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6847,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.608785806457283,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7498000000000005,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_700f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6745,C3,2.0
+POLES ENGAGE,EN_NPi2020_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.695835113525391,C3,2.0
+REMIND-MAgPIE 2.1-4.2,NGFS2_Divergent Net Zero Policies,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.5593,C1,2.0
+POLES ENGAGE,EN_INDCi2030_600f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.044730663299561,C3,2.0
+POLES ENGAGE,EN_INDCi2030_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.455103635787964,C3,2.0
+POLES GECO2019,CO_2Deg2020,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.153750419616699,C3,2.0
+POLES ENGAGE,EN_INDCi2030_700f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.350739479064941,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,15.9744,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7024,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_LIRE_LB,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.606713992492557,C1,2.0
+POLES ENGAGE,EN_NPi2020_700f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.014737129211426,C3,2.0
+POLES ENGAGE,EN_INDCi2030_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.81352162361145,C3,2.0
+WITCH 5.0,CO_2Deg2020,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.61996705490932,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1200,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.4294475818157775,C3,2.0
+REMIND-Buildings 2.0,BEG-Budg600,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.461,C2,2.0
+AIM/CGE 2.2,EN_NPi2020_700f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.5192,C3,2.0
+POLES ENGAGE,EN_INDCi2030_400f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.893593788146973,C2,2.0
+GEM-E3_V2021,EN_NPi2020_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.516029709469782,C2,2.0
+REMIND-Transport 2.1,Transport_Budg1100_Conv,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.3391,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6619,C2,2.0
+POLES ENGAGE,EN_INDCi2030_300f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.619633913040161,C2,2.0
+WITCH 5.0,EN_INDCi2030_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.76398610098163,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_1000_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.500735255910016,C3,2.0
+IMAGE 3.0,CO_2Deg2030,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.8867613612674194,C3,2.0
+AIM/CGE 2.2,EN_INDCi2030_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.544600000000003,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_600,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.0273,C1,2.0
+POLES ENGAGE,EN_NPi2020_400f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.979166030883789,C2,2.0
+TIAM-ECN 1.1,EN_NPi2020_1200,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.432508273845323,C3,2.0
+POLES GECO2019,CO_Bridge,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.427304744720459,C2,2.0
+IMAGE 3.2,SSP2_SPA2_26I_LIRE,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.77267732252796,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7211,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6972000000000005,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6862,C2,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.128169071575225,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7231000000000005,C3,2.0
+GEM-E3_V2021,EN_NPi2020_400f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.568271529173641,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.665,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,17.0638,C3,2.0
+WITCH 5.0,CO_2Deg2030,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.62335286616127,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6951,C1,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,7.4065395021433105,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_300f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.647,C2,2.0
+POLES ENGAGE,EN_INDCi2030_600f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.8522579669952393,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_500,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6501,C1,2.0
+WITCH 5.0,EN_INDCi2030_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.3346856546340895,C3,2.0
+REMIND-Transport 2.1,Transport_Budg1100_ElecPush,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.4094,C3,2.0
+IMAGE 3.0,EN_NPi2020_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.132535592652856,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.2307,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6511,C2,2.0
+GEM-E3_V2021,EN_NPi2020_1000_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.351087985289427,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_1200f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.5131,C3,2.0
+WITCH 5.0,EN_NPi2020_450,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.05003003673024,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_700,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6862,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.256763276471546,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6614,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_400f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6527,C2,2.0
+GEM-E3_V2021,EN_NPi2020_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.5428311605676,C3,2.0
+WITCH 5.0,EN_INDCi2030_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.06607377562313,C3,2.0
+GEM-E3_V2021,EN_INDCi2030_1000f_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.325143835063571,C3,2.0
+GEM-E3_V2021,EN_NPi2020_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.553859303854262,C3,2.0
+POLES ENGAGE,EN_NPi2020_700,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.59522819519043,C3,2.0
+WITCH 5.0,EN_INDCi2030_700f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.22190150674073,C3,2.0
+WITCH 5.0,EN_NPi2020_900,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.72606677958817,C3,2.0
+WITCH 5.0,EN_INDCi2030_900_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.2125486375257895,C3,2.0
+POLES ENGAGE,EN_INDCi2030_500f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.428706645965576,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1200,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.9903,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.927747400659543,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6739,C2,2.0
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.647,C1,2.0
+GEM-E3_V2021,EN_INDCi2030_1000f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.331415360260147,C3,2.0
+IMAGE 3.2,SSP2_SPA1_19I_D_LB,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.149177958007812,C1,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_700,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.625,C3,2.0
+REMIND-MAgPIE 2.0-4.1,Diff_1300Gt_hybrid_def,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.4305,C3,2.0
+GEM-E3_V2021,EN_NPi2020_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.512142506310893,C2,2.0
+GEM-E3_V2021,EN_NPi2020_800,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.494971449469679,C3,2.0
+WITCH 5.0,EN_NPi2020_900f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.97197829899721,C3,2.0
+GEM-E3_V2021,EN_NPi2020_500,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.603332180497613,C1,2.0
+WITCH 5.0,EN_NPi2020_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.10381610673647,C3,2.0
+IMAGE 3.0,CO_Bridge,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,4.927564092446119,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7343,C3,2.0
+COFFEE 1.1,CO_Bridge,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.402130140239999,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_1000,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.6018,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000_COV_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.6883,C3,2.0
+AIM/CGE 2.2,EN_NPi2020_700,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,16.133200000000002,C3,2.0
+IMAGE 3.2,SSP2_SPA2_19I_LI,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.890565064697265,C1,2.0
+GEM-E3_V2021,EN_INDCi2030_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.615295184411682,C2,2.0
+GEM-E3_V2021,EN_INDCi2030_800f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.533563490217869,C2,2.0
+WITCH 5.0,EN_INDCi2030_800_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.11955048905819,C3,2.0
+TIAM-ECN 1.1,EN_NPi2020_1000_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.25004342051004,C3,2.0
+TIAM-ECN 1.1,EN_INDCi2030_1000f_COV,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,6.905649016827308,C3,2.0
+REMIND-MAgPIE 2.1-4.2,EN_INDCi2030_1000f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,5.7087,C3,2.0
+WITCH 5.0,EN_INDCi2030_600f_NDCp,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,8.013923888012858,C3,2.0
+IMAGE 3.2,SSP2_SPA2_19I_D,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.5528350283203123,C2,2.0
+IMAGE 3.2,SSP2_SPA2_19I_RE,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,3.086027034568786,C2,2.0
+WITCH 5.0,EN_NPi2020_600f,EU28,Final Energy|Transportation|Passenger,EJ/yr,2050,2.44391543239924,C3,2.0

@@ -1,0 +1,133 @@
+model,scenario,region,variable,unit,year,value,study
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2015,12.276128518956208,Study_3
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.07222940474897,Study_3
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.749874323058963,Study_3
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2030,15.01487461387213,Study_3
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2035,15.553125483873737,Study_3
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2040,15.203551802403931,Study_3
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2045,15.58832368491121,Study_3
+PROMETHEUS V1,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.792296074327707,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2015,12.276128518956208,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.07222940474897,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.74269108054023,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2030,15.061967870640842,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2035,15.641235855039856,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2040,15.303511027219443,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2045,15.685211267638454,Study_3
+PROMETHEUS V1,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.838839989600153,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2015,12.276128518956208,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.07222940474897,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.74269108054023,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2030,15.061967870640842,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2035,15.59274736623395,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2040,15.193874508027774,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2045,15.528110872023065,Study_3
+PROMETHEUS V1,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.596680071163254,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2015,12.276128518956208,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.07222940474897,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.74269108054023,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2030,15.061967870640842,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2035,15.60943986137232,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2040,15.255571228470654,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2045,15.679969763269426,Study_3
+PROMETHEUS V1,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2050,15.907990582846104,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2005,9.82371842002,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2010,10.01810573,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2015,9.7138615,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2020,10.62566229351,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2025,12.20422864851,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2030,13.51028512651,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2035,14.89829185151,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2040,16.57183485751,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2045,18.39218693651,Study_3
+GCAM 7_0,NDC_LTT,EU27,Secondary Energy|Electricity,EJ/yr,2050,20.2782988833,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2005,9.82371842002,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2010,10.01810573,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2015,9.7138615,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2020,10.62566229351,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2025,12.19882677051,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2030,13.49248928831,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2035,14.68592506931,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2040,16.21263091131,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2045,17.79950069131,Study_3
+GCAM 7_0,NDC_LTT_limBIO,EU27,Secondary Energy|Electricity,EJ/yr,2050,19.6899679505,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2005,9.82371842002,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2010,10.01810573,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2015,9.7138615,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2020,10.62566229351,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2025,12.20330500821,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2030,13.51406239641,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2035,14.773464714716,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2040,16.235122130095,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2045,17.754224932168,Study_3
+GCAM 7_0,NDC_LTT_limCCS,EU27,Secondary Energy|Electricity,EJ/yr,2050,19.367372361505,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2005,9.82371842002,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2010,10.01810573,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2015,9.7138615,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2020,10.62565480748,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2025,12.03548778108,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2030,13.20864092298,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2035,13.44691772698,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2040,15.04095845398,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2045,17.16614349898,Study_3
+GCAM 7_0,NDC_LTT_limRES,EU27,Secondary Energy|Electricity,EJ/yr,2050,19.1133354157,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2005,9.82371842002,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2010,10.01810573,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2015,9.7138615,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2020,10.62566229351,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2025,12.21083429591,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2030,11.450189888714,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2035,15.31166190521,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2040,16.75132735421,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2045,18.01392842921,Study_3
+GCAM 7_0,NDC_LTT_NoRus,EU27,Secondary Energy|Electricity,EJ/yr,2050,19.994472358,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2005,12.03143219524272,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2010,12.119613596287246,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2015,13.125075196618122,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.801633268293081,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.659047691357053,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2030,16.916739011354835,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2035,18.260302301197672,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2040,20.177912390830475,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2045,24.135488943397128,Study_3
+TIAM_Grantham,NDC_LTT,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.64980743644478,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2005,12.03143219524272,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2010,12.119613596287246,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2015,13.125075196618122,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.801633268293081,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.659047691357053,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2030,16.55373373092894,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2035,18.59680273273791,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2040,21.448663211295006,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2045,25.887504782182937,Study_3
+TIAM_Grantham,NDC_LTT_NoRus,EU28,Secondary Energy|Electricity,EJ/yr,2050,27.181050950952873,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2005,12.03143219524272,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2010,12.119613596287246,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2015,13.125075196618122,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.801633268293081,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.659047691357053,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2030,17.28190716035818,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2035,18.967960325181924,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2040,21.525927381594297,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2045,25.397582731644036,Study_3
+TIAM_Grantham,NDC_LTT_limBIO,EU28,Secondary Energy|Electricity,EJ/yr,2050,26.990761169509483,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2005,12.03143219524272,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2010,12.119613596287246,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2015,13.125075196618122,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.801633268293081,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.659047691357053,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2030,15.15497603559318,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2035,19.30323404129121,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2040,22.4342620089228,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2045,25.70968599235737,Study_3
+TIAM_Grantham,NDC_LTT_limCCS,EU28,Secondary Energy|Electricity,EJ/yr,2050,28.47754410969568,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2005,12.03143219524272,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2010,12.119613596287246,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2015,13.125075196618122,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2020,12.801633268293081,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2025,13.659047691357053,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2030,16.46795211705679,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2035,18.004168750160567,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2040,19.765929404667883,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2045,22.056459104709887,Study_3
+TIAM_Grantham,NDC_LTT_limRES,EU28,Secondary Energy|Electricity,EJ/yr,2050,22.448822911531316,Study_3
