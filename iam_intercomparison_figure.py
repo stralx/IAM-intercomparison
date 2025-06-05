@@ -10,7 +10,7 @@ def iam_intercomparison_figure(hist_df, AR6_df, study_df,
                                region_list=['EU28','EU27'],
                                box_cats=['C1','C2','C3']):
     """
-        Create a 2×3 grid of scenario plots with:
+        Create a grid of scenario plots with:
           - Historical dashed line (sum over region_list in hist_df)
           - Model lines per scenario (study_df filtered on region_list)
           - Min–max funnel & median from 2020 (study_df)
